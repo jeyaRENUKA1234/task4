@@ -1,0 +1,33 @@
+ 
+ h1{
+	color:white;
+	font-size:50px;
+	font-weight:60px;
+	display:flex;
+}
+p{
+	font-size:25px;
+	color:white;
+	padding:10px;
+}
+body{
+	background-color:#4682B4;
+}
+.row{
+	display:flex;
+	justify-content:flex-end;;
+}
+.image{
+	margin-left:850px;
+}
+button{
+	background-color:#1E90FF;
+	border-radius:10px;
+	font-size:20px;
+	color:white;
+     border:none;	
+}
+div i{
+	font-size:20px;
+}
+
